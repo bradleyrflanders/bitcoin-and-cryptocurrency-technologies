@@ -1,4 +1,4 @@
 # See https://help.github.com/ignore-files/ for more about ignoring files.
 
 # misc
-.DS_Store
+/assignment1/starter-code/.DS_Store
